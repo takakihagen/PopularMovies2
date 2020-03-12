@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <!--menu bar-->
+    <string name="popular_order">Order by Popularity</string>
+    <string name="top_rating_order">Order by Top Rating</string>
+    <string name="settings">Settings</string>
+
+
+    <!--DetailActivity-->
+    <string name="rating_comment">"Rating: "</string>
+    <string name="rating_max">" /10"</string>
+    <string name="released_on">"Released on "</string>
+    <string name="overview">Overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="review">Review</string>
+
+    <string name="title_extra">title</string>
+    <string name="release_data_extra">releaseDate</string>
+    <string name="poster_path_extra">imageUrl</string>
+    <string name="backdrop_path_extra">backDropUrl</string>
+    <string name="vote_average_extra">voteAverage</string>
+    <string name="overview_extra">overview</string>
+
+    <string name="button_insert_button">To Favorite</string>
+    <string name="button_delete_button">Your Favorite</string>
+
+    <!--URL-->
+    <string name="order_query_popular">popular</string>
+    <string name="order_query_top_rate">top_rated</string>
+
+    <string name="title_query">title</string>
+    <string name="release_data_query">release_date</string>
+    <string name="poster_path_query">poster_path</string>
+    <string name="backdrop_path_query">backdrop_path</string>
+    <string name="vote_average_query">vote_average</string>
+    <string name="overview_query">overview</string>
+    
+    <!--Settings-->
+    <string name="pref_order_key">order</string>
+    <string name="pref_order_label">Ordered by</string>
+    
+    <string name="pref_label_order_popular">popularity</string>
+    <string name="pref_label_order_toprated">top rated</string>
+    <string name="pref_label_order_favorite">my favorite</string>
+
+    <string name="pref_value_order_popular">popular</string>
+    <string name="pref_value_order_toprated">top_rated</string>
+    <string name="pref_value_order_favorite">favorite</string>
+</resources>

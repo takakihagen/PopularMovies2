@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#ff8f00</color>
+
+    
+    <!--Text-->
+    <color name="movie_title">#212121</color>
+    <color name="movie_important">#212121</color>
+    <color name="movie_normal">#424242</color>
+    <color name="movie_not_important">#616161</color>
+
+    <!--Button-->
+    <color name="buttonColorNotFavorite">#ff8f00</color>
+    <color name="buttonColorFavorite">#e0e0e0</color>
+    <color name="buttonColorNotFavoriteBackground">#fff8e1</color>
+    <color name="buttonColorFavoriteBackground">#fafafa</color>
+    <color name="buttonColorFavoriteText">#212121</color>
+    <color name="buttonColorNotFavoriteText">#212121</color>
+</resources>

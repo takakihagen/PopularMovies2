@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="movie_title">28dp</dimen>
+    <dimen name="movie_rating">20dp</dimen>
+    <dimen name="movie_sub_title">20dp</dimen>
+</resources>
